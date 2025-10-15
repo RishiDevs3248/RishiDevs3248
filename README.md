@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning **React**, and exploring **NextJs** & **Type Script**
+- 🌱 I’m currently learning **React**, and exploring **NextJs** & **Type Script**.
 - 👯 I’m looking to collaborate on **open-source projects**, **web applications**.  
 - 💬 Ask me about **JavaScript, React or MongoDB** — I love discussing these!  
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hrishikesh-alabnur-407269233/)** | **[Email](mailto:alabnur2004@gmail.com)**
