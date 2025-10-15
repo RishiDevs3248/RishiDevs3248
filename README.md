@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tech Stack
-💻 **Languages:** JavaScript | Java | SQL | MongoDB 
+
+💻 **Languages:** JavaScript | Java | SQL | MongoDB  
 🌐 **Frontend:** React | HTML | CSS | Vite  
-🧠 **Backend:** Node.js | Express.js 
+🧠 **Backend:** Node.js | Express.js  
 🗄️ **Database:** MongoDB | PostgreSQL  
-🧩 **Tools & Platforms:** Git | Docker | VS Code | Postman | Ollama 
+🧩 **Tools & Platforms:** Git | Docker | VS Code | Postman | Ollama  
+
 
 ---
 
