@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌟 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-alabnur)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RishiDevs3248)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-alabnur-407269233/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RishiDevs3248) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alabnur2004@gmail.com)
+
 
 ---
