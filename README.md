@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on my **Final Year Project** – an AI & ML-based **Resume Analysis and Skill Recommendation System**.  
 - 🌱 I’m currently learning **React**, and exploring **NextJs** & **Type Script**
 - 👯 I’m looking to collaborate on **open-source projects**, **web applications**.  
 - 💬 Ask me about **JavaScript, React or MongoDB** — I love discussing these!  
@@ -35,11 +34,6 @@ Here are some ideas to get you started:
 🧠 **Backend:** Node.js | Express.js 
 🗄️ **Database:** MongoDB | PostgreSQL  
 🧩 **Tools & Platforms:** Git | Docker | VS Code | Postman | Ollama 
-
----
-
-### 📈 GitHub Stats
-![Hrishikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiDevs3248&show_icons=true&theme=tokyonight)
 
 ---
 
